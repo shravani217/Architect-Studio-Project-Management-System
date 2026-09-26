@@ -11,3 +11,9 @@ Version 1.0 supports basic client and project management.
 Version 1.1 adds design submission and client approval.
 
 Architects can upload design plans and project documents. Clients can review the submitted designs and approve them or request changes.
+
+## Version 2.0
+
+Version 2.0 adds budget and payment management, project progress tracking, and report generation.
+
+The system allows project managers to maintain project budgets and payment records. Project progress can be updated and viewed by authorized users. The system also generates basic project and budget reports.
